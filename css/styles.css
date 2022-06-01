@@ -7,3 +7,8 @@ body {
  .github-overskrift {
      margin-top: 1rem;
  }
+ .vurderingparagraf {
+
+    font-weight: 400;
+    font-size: large;
+ }
