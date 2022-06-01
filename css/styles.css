@@ -1,0 +1,9 @@
+/*Tag selector*/
+body {
+    background-color: #F1EEE9;
+    text-align: center;
+}
+/*Class selector*/
+ .github-overskrift {
+     margin-top: 1rem;
+ }
